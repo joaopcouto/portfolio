@@ -126,6 +126,13 @@ body{
         width: auto;
     }
 
+    .apresentacao__imagem__conteudo {
+        margin-top: 3%;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+
     .apresentacao__conteudo__titulo {
         padding: 5%;
     }
